@@ -333,7 +333,7 @@ class Trigonometric():
             print("Error: 'pdf_handling' 모듈에 'generate_pdf_files' 함수가 없습니다.")
 
 def main():
-    Trigonometric().generate_practice(300)
+    Trigonometric().generate_practice(100)
 
 if __name__ == "__main__":
     main()
